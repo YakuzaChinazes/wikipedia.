@@ -1,0 +1,30 @@
+<html>
+    <body style="background:lightgray;font-family:sans-serif;">
+    <h1>Тарас Григорович Шевченко</h1>
+    <p style="background:midnightblue;color:white;text-align:center;color:">Тарас Григорович Шевченко-<b><i>український поет, прозаїк, мислитель, живописець, гравер, етнограф, громадський діяч. Національний герой і символ України. Діяч українського національного руху, член Кирило-Мефодіївського братства. Академік Імператорської академії мистецтв (1860)</i></b></p>
+    <p style="text-align:right;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taras_Shevchenko_selfportrait_oil_1840.jpg/250px-Taras_Shevchenko_selfportrait_oil_1840.jpg" height="250px"></p>
+    <main style="text-align:center;font-family:sans-serif">Основні події
+    <table style="background-color:lighblue;border:1px solid green">
+        <tr>
+            <td style="border:1px solid green">Події</td>
+            <td style="border:1px solid green">Роки</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid green">Перші роки в Петербурзі. Викуп з кріпацтва</td>
+            <td style="border:1px solid green;background:blue;color:white">(1831—1838)</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid green">Перший приїзд в Україну. «Живописна Україна»</td>
+            <td style="border:1px solid green;background:blue;color:white">(1843—1844)</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid green">Перший арешт. Кара солдатчиною</td>
+            <td style="border:1px solid green;background:blue;color:white">(1847)</td>
+        </tr>
+    </table>
+    </main>
+    <footer style="background:black;color:white">
+        <p>Детальніше про біографію Тараса Григоровича Шевченка ви можете дізнатися <a href="https://uk.wikipedia.org/wiki/Шевченко_Тарас_Григорович">*клікнувши сюди*</a></p>
+    </footer>
+    </body>
+</html>    
